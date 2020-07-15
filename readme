@@ -1,0 +1,6 @@
+this little program uses a redis database in a local ubuntu
+
+Output example
+
+----Redis\redis_hello_world> node .\index.js
+hello world

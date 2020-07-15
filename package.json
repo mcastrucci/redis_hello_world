@@ -1,0 +1,18 @@
+{
+  "name": "redis_hello_world",
+  "version": "1.0.0",
+  "description": "a hello world using redis technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "redis"
+  ],
+  "author": "mcastrucci",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^3.0.2"
+  }
+}
